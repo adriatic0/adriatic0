@@ -14,6 +14,9 @@
 5. [Zameen.com](https://www.zameen.com) is "the first and largest property portal in Pakistan and is among the top five property portals in the world." I used data about Islamabad, Pakistan to train a neural network to predict housing prices in there.
 
 
+You can find some samples from other projects I have worked on in the repository above.
+
+
 
  
 
