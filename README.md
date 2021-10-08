@@ -16,7 +16,7 @@
 7. I used Sentiment Analysis to gather all [good news](https://www.ocf.berkeley.edu/~emadsiddiq/run.fcgi/goodnews/) on one page at the beginning of the pandemic (no longer up to date). 
 
 
-You can find some samples from other projects I have worked on in the repository above.
+You can find some samples from other projects I have worked on in the adriatic1517 repository above.
 
 
 
