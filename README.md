@@ -1,5 +1,7 @@
 ## Hi, I am Emad.
 
+Recently I have been working as a Software Engineer on blockchain technologies at [Fin3](https://www.fin3.tech). Here are some of my projects from my time at UC Berkeley:
+
 
 1. [Dawn.com](http://www.dawn.com) is one of Pakistan's leading daily English newspaper. They have an archive of over 60 news articles per day going back to 2010. I   [mined](https://colab.research.google.com/drive/14Frh3Yq33bXFHG0fRT8xx05hRckbzwrA?usp=sharing)
  all the articles, as well as the different articles they linked to.
