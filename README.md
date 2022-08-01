@@ -14,8 +14,8 @@ Recently I have been working as a Software Engineer on blockchain technologies a
 
 
 5. [Zameen.com](https://www.zameen.com) is "the first and largest property portal in Pakistan and is among the top five property portals in the world." I used data about Islamabad, Pakistan to train a neural network to predict housing prices.
-6. I created the most advanced [dictionary](https://www.ocf.berkeley.edu/~emadsiddiq/run.fcgi/pashto/) available for my mother tongue Pashto. 
-7. I used Sentiment Analysis to gather all [good news](https://www.ocf.berkeley.edu/~emadsiddiq/run.fcgi/goodnews/) on one page at the beginning of the pandemic (no longer up to date). 
+
+6. I used Sentiment Analysis to gather all [good news](https://www.ocf.berkeley.edu/~emadsiddiq/run.fcgi/goodnews/) on one page at the beginning of the pandemic (no longer up to date). 
 
 
 You can find some samples from other projects I have worked on in the adriatic1517 repository above.
