@@ -1,5 +1,6 @@
 ## Hi, I am Emad.
 
+You can find some code samples in this repo. And a few projects below:
 
 1. [Node Auth](https://github.com/adriatic1517/node_auth) is a a Node.js implementation of the OAuth framework (in progress)
 
