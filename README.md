@@ -7,7 +7,7 @@
  all the articles, as well as the different articles they linked to.
 
 
-3. The Titanic dataset is a classic dataset used to introduce data science. I used it to [teach](https://colab.research.google.com/drive/1grXmv8FX9u2acqSb_3YcjpRT1x63RMsB?usp=sharing) the data science lifescycle by training a deep learning model in the hopes that others would enjoy it as much as I did.
+3. The Titanic dataset is a classic dataset used to introduce data science. I[taught](https://colab.research.google.com/drive/1grXmv8FX9u2acqSb_3YcjpRT1x63RMsB?usp=sharing) the data science lifescycle by training a deep learning model in the hopes that others would enjoy it as much as I did.
 
 
 
